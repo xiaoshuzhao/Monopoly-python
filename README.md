@@ -12,6 +12,8 @@ This is a simplified monopoly game.
 5. If the player walks normally and lands on the "Jail" grid, they are merely "visiting" the Jail and do not incur any penalty. On the next turn, they can roll the dice as usual and continue the game.
 6. Walking through the "Tax" area need to pay taxes, if bankruptcy will be the end of the game
 
+## theme design
+
 ![theme image](resource/首页效果图.png)
 ![game page](resource/效果图.png)
 
